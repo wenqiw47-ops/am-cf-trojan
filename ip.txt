@@ -3,4 +3,8 @@
 braden.ns.cloudflare.com
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
 104.17.71.31:443#HK
-time.is
+https://zrf.zrf.me/zrf
+https://alvless.comorg.us.kg/TCorg
+alvless.comorg.us.kg/TCorg
+https://sub.809098.xyz
+sub.809098.xyz
